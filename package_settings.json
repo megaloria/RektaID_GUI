@@ -1,0 +1,8 @@
+{
+  "Package A": {
+    "bg_color": "Blue"
+  },
+  "Package B": {
+    "bg_color": "Keep Original"
+  }
+}
